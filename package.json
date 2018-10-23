@@ -1,0 +1,24 @@
+{
+  "id": "feedly",
+  "name": "Feedly",
+  "version": "1.0.0",
+  "description": "feedly",
+  "main": "index.js",
+  "author": "Davide Ferraro <ferraro.dav@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://feedly.com/i/my",
+    "serviceName": "Feedly",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
